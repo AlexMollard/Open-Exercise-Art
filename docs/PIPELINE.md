@@ -48,4 +48,5 @@ python tools/build.py --output .tmp/rebuilt --jobs 4
 The tests cover contour holes, raster/vector round trips, blank images,
 line-weight normalization and catalogue integrity. A full rebuild can be
 compared with the committed SVG hashes without changing the approved assets.
-No automated GitHub workflows or metered services are configured.
+Tests run locally. The public gallery has an owner-approved automatic GitHub
+Pages deployment; see [PAGES.md](PAGES.md). Conversion needs no metered services.

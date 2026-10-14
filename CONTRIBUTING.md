@@ -30,5 +30,6 @@ The initial PNGs were AI-generated and human-reviewed. Clearly disclose the
 provenance of new contributions rather than claiming the original generation
 service is part of the FOSS conversion toolchain.
 
-Tests run locally. Do not add automatic GitHub Actions, Git LFS, analytics,
-external fonts, paid services or credentials to this project.
+Tests run locally. The owner-approved GitHub Pages workflow publishes gallery
+updates from `main` using a free standard runner. Do not add other automatic
+workflows, Git LFS, analytics, external fonts, paid services or credentials.

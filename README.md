@@ -10,8 +10,9 @@ need a consistent set of single-frame exercise drawings.
 |---|---|---|
 | ![Push-up](svg/push-up.svg) | ![Goblet squat](svg/goblet-squat.svg) | ![L-sit](svg/l-sit.svg) |
 
-Browse the [exercise index](INDEX.md), use the machine-readable
-[catalogue](catalogue.json), or open the searchable gallery locally:
+Browse and download images in the **[online gallery](https://alexmollard.github.io/Open-Exercise-Art/)**
+without cloning the repository. The [exercise index](INDEX.md) and machine-readable
+[catalogue](catalogue.json) are also available. To run the same gallery locally:
 
 ```sh
 python -m http.server 8000 --bind 127.0.0.1

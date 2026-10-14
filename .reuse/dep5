@@ -2,7 +2,7 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: Open Exercise Art
 Source: https://github.com/AlexMollard/Open-Exercise-Art
 
-Files: tools/* tests/* gallery.* index.html requirements.txt .gitattributes .gitignore
+Files: tools/* tests/* gallery.* index.html requirements.txt .gitattributes .gitignore .github/workflows/*
  README.md ATTRIBUTION.md CONTRIBUTING.md INDEX.md PROVENANCE.md THIRD_PARTY_NOTICES.md docs/*
 Copyright: 2026 Alex Mollard and credited contributors
 License: GPL-3.0-or-later
