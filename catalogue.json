@@ -2723,11 +2723,11 @@
           1254,
           1254
         ],
-        "sha256": "6036bd0b3f60dd73b6cf78d7af42f302aa6231518093029bd13ec4352ed12596"
+        "sha256": "6a1bfabe35b6b301c196a3b4d4813a70438818541a7a329e254a53f05de5e1d9"
       },
       "svg": {
         "file": "svg/decline-dumbbell-press.svg",
-        "sha256": "9190fb01726815ad3208f925e7c754a87478b55aa92de63aa028b6204fbbe378"
+        "sha256": "cc7a5201112d06d72afea19e01f4e407d3bfd1ce02a9c74d026d1f9a392af2a4"
       }
     },
     {
@@ -3343,11 +3343,11 @@
           1254,
           1254
         ],
-        "sha256": "235ae7b1f26c55a9305df8890b56c541055f4ab625b7a10a2ecbe91dcf2a005a"
+        "sha256": "a24bcd88e1497d7d5383ea009d22a9515168eaa6b6dbeb2afd932bb522fe39c0"
       },
       "svg": {
         "file": "svg/dumbbell-romanian-deadlift.svg",
-        "sha256": "f3472be42ab801653b510ded91b3c754e9c3fec9f7a9b2449e76068e19343a6e"
+        "sha256": "4f3e4dc3f47239fd1891f45bca51e7e40d7b2409376d803cf4b71eec5256539b"
       }
     },
     {
@@ -4887,11 +4887,11 @@
           1254,
           1254
         ],
-        "sha256": "a5022278baac20afc785347a66eb2deb4ded06781bbf229d0dd25fa9ca23fdba"
+        "sha256": "762c7eb85048b5e4c92d64966cda0c03db1a09aec27d30845b4f246c8b33fabb"
       },
       "svg": {
         "file": "svg/incline-dumbbell-fly-with-twist.svg",
-        "sha256": "86a7cfad70ec5519da9a203d0abe77a15b5089aedb8784d67ec5386c78bad13e"
+        "sha256": "5cda82cae6d514a4c1f4c441e903454bc046ec79c99ef061e3c9fbaba4a9dc75"
       }
     },
     {
@@ -7040,11 +7040,11 @@
           1254,
           1254
         ],
-        "sha256": "2469aeaf25242a076e10841341b3c04fa672772e6e3d5a1b6da9438ac597d969"
+        "sha256": "b8489512cfac649d4aabc607b21ec45b445a87fa8d481b2196fbff97995335fc"
       },
       "svg": {
         "file": "svg/pronated-one-arm-dumbbell-triceps-extension.svg",
-        "sha256": "b22381c9e8ce45337ef7fbfc8968083aa60f8ffbbd89624ea82ac20a886a83ff"
+        "sha256": "c96fbbf14f40f18e0b2750106bbc5183e897c28f026e1f1c3f768279e92005d4"
       }
     },
     {
