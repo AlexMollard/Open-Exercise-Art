@@ -1,6 +1,6 @@
 # Exercise index
 
-555 approved single-frame illustrations. Artwork and catalogue: CC BY-SA 4.0.
+556 approved single-frame illustrations. Artwork and catalogue: CC BY-SA 4.0.
 
 | Exercise | SVG | PNG |
 |---|---|---|
@@ -122,6 +122,7 @@
 | Close-Grip Bench Press | [SVG](svg/close-grip-bench-press.svg) | [PNG](png/close-grip-bench-press.png) |
 | Close-Grip EZ-Bar Curl | [SVG](svg/close-grip-ez-bar-curl.svg) | [PNG](png/close-grip-ez-bar-curl.png) |
 | Close-Grip Lat Pulldown | [SVG](svg/close-grip-lat-pulldown.svg) | [PNG](png/close-grip-lat-pulldown.png) |
+| Cobra Squat | [SVG](svg/cobra-squat.svg) | [PNG](png/cobra-squat.png) |
 | Commando Pull-up | [SVG](svg/commando-pull-up.svg) | [PNG](png/commando-pull-up.png) |
 | Concentration Curl | [SVG](svg/concentration-curl.svg) | [PNG](png/concentration-curl.png) |
 | Copenhagen Plank | [SVG](svg/copenhagen-plank.svg) | [PNG](png/copenhagen-plank.png) |

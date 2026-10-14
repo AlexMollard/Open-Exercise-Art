@@ -2229,6 +2229,23 @@
       }
     },
     {
+      "id": "cobra-squat",
+      "name": "Cobra Squat",
+      "aliases": [],
+      "png": {
+        "file": "png/cobra-squat.png",
+        "size": [
+          1254,
+          1254
+        ],
+        "sha256": "f13840dd4f014d766958f2345603d501f510ce93d257ec91ad292f740f56db9f"
+      },
+      "svg": {
+        "file": "svg/cobra-squat.svg",
+        "sha256": "070852cb486b661acaebb4edb234467b0e747619d86f711db0ffb69d7d2b872a"
+      }
+    },
+    {
       "id": "commando-pull-up",
       "name": "Commando Pull-up",
       "aliases": [
