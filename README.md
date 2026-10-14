@@ -96,4 +96,10 @@ Visual inspiration came from Everkinetic (Greg Priday) and Workout Guide (Bryl L
 No upstream drawing files or animation archives are bundled. This repository
 does not claim the collection is public domain. See [PROVENANCE.md](PROVENANCE.md).
 
-Contributions are welcome; please read [CONTRIBUTING.md](CONTRIBUTING.md).
+I reviewed every illustration before publishing, but a few mistakes may have
+slipped through. If you spot incorrect anatomy, missing limbs, wrong equipment
+or any other inaccurate detail, please [open an issue](https://github.com/AlexMollard/Open-Exercise-Art/issues/new)
+so I can correct it. Include the exercise name and a short description of the problem.
+
+Corrections through pull requests are very welcome too. Please read
+[CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes.
