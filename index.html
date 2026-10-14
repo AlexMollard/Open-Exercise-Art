@@ -1,0 +1,40 @@
+<!doctype html>
+<!-- SPDX-License-Identifier: GPL-3.0-or-later -->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Open Exercise Art</title>
+  <link rel="stylesheet" href="gallery.css">
+  <script src="gallery.js" defer></script>
+</head>
+<body>
+  <header>
+    <a class="eyebrow" href="https://github.com/AlexMollard/Open-Exercise-Art">OPEN EXERCISE ART ↗</a>
+    <h1>Every movement.<br>One clear illustration.</h1>
+    <p class="intro">553 consistent exercise drawings. Transparent PNGs, scalable SVGs,
+      and open tools to make them yours.</p>
+    <nav aria-label="Project resources">
+      <a href="README.md">Usage &amp; tools</a>
+      <a href="catalogue.json" download>JSON catalogue</a>
+      <a href="ATTRIBUTION.md">CC BY-SA 4.0 artwork</a>
+    </nav>
+  </header>
+  <main>
+    <section class="toolbar" aria-label="Find illustrations">
+      <label for="search">Find an exercise</label>
+      <input type="search" id="search" placeholder="Try squat, pull-up, lever…" autocomplete="off">
+      <p id="count" role="status" aria-live="polite">Loading illustrations…</p>
+    </section>
+    <p id="error" hidden></p>
+    <div id="gallery" class="gallery"></div>
+    <noscript>Enable JavaScript for search, or browse <a href="INDEX.md">the exercise index</a>.</noscript>
+  </main>
+  <footer>
+    <p>Artwork: CC BY-SA 4.0 · Tools &amp; gallery: GPL-3.0-or-later</p>
+    <p>Created for Ironvellum and shared by Alex Mollard. AI-generated source drawings,
+      individually reviewed. Inspired by Everkinetic and Workout Guide.</p>
+    <a href="PROVENANCE.md">Provenance</a>
+  </footer>
+</body>
+</html>
