@@ -1,6 +1,6 @@
 # Exercise index
 
-556 approved single-frame illustrations. Artwork and catalogue: CC BY-SA 4.0.
+561 approved single-frame illustrations. Artwork and catalogue: CC BY-SA 4.0.
 
 | Exercise | SVG | PNG |
 |---|---|---|
@@ -8,9 +8,11 @@
 | Ab Wheel Rollout | [SVG](svg/ab-wheel-rollout.svg) | [PNG](png/ab-wheel-rollout.png) |
 | Abdominal Draw-In | [SVG](svg/abdominal-draw-in.svg) | [PNG](png/abdominal-draw-in.png) |
 | Active Bar Hang | [SVG](svg/active-bar-hang.svg) | [PNG](png/active-bar-hang.png) |
+| Advanced Shrimp Squat | [SVG](svg/advanced-shrimp-squat.svg) | [PNG](png/advanced-shrimp-squat.png) |
 | Advanced Tuck Back Lever | [SVG](svg/advanced-tuck-back-lever.svg) | [PNG](png/advanced-tuck-back-lever.png) |
 | Advanced Tuck Front Lever | [SVG](svg/advanced-tuck-front-lever.svg) | [PNG](png/advanced-tuck-front-lever.png) |
 | Advanced Tuck Planche | [SVG](svg/advanced-tuck-planche.svg) | [PNG](png/advanced-tuck-planche.png) |
+| Airborne Squat | [SVG](svg/airborne-squat.svg) | [PNG](png/airborne-squat.png) |
 | Alternating Dumbbell Curl | [SVG](svg/alternating-dumbbell-curl.svg) | [PNG](png/alternating-dumbbell-curl.png) |
 | Alternating Hammer Curl | [SVG](svg/alternating-hammer-curl.svg) | [PNG](png/alternating-hammer-curl.png) |
 | Ankle Circles | [SVG](svg/ankle-circles.svg) | [PNG](png/ankle-circles.png) |
@@ -89,6 +91,7 @@
 | Bodyweight Squat | [SVG](svg/bodyweight-squat.svg) | [PNG](png/bodyweight-squat.png) |
 | Bosu Ball Push-up | [SVG](svg/bosu-ball-push-up.svg) | [PNG](png/bosu-ball-push-up.png) |
 | Bouldering | [SVG](svg/bouldering.svg) | [PNG](png/bouldering.png) |
+| Box Pistol Squat | [SVG](svg/box-pistol-squat.svg) | [PNG](png/box-pistol-squat.png) |
 | Boxing | [SVG](svg/boxing.svg) | [PNG](png/boxing.png) |
 | Brazilian Jiu-Jitsu | [SVG](svg/brazilian-jiu-jitsu.svg) | [PNG](png/brazilian-jiu-jitsu.png) |
 | Bridge | [SVG](svg/bridge.svg) | [PNG](png/bridge.png) |
@@ -152,6 +155,7 @@
 | Decline Push-up | [SVG](svg/decline-push-up.svg) | [PNG](png/decline-push-up.png) |
 | Decline Sit-Up | [SVG](svg/decline-sit-up.svg) | [PNG](png/decline-sit-up.png) |
 | Deep Squat Hold | [SVG](svg/deep-squat-hold.svg) | [PNG](png/deep-squat-hold.png) |
+| Deficit Advanced Shrimp Squat | [SVG](svg/deficit-advanced-shrimp-squat.svg) | [PNG](png/deficit-advanced-shrimp-squat.png) |
 | Deficit Reverse Lunge | [SVG](svg/deficit-reverse-lunge.svg) | [PNG](png/deficit-reverse-lunge.png) |
 | Diamond Push-up | [SVG](svg/diamond-push-up.svg) | [PNG](png/diamond-push-up.png) |
 | Dip | [SVG](svg/dip.svg) | [PNG](png/dip.png) |
@@ -190,6 +194,7 @@
 | Dumbbell Sumo Squat | [SVG](svg/dumbbell-sumo-squat.svg) | [PNG](png/dumbbell-sumo-squat.png) |
 | Dumbbell Upright Row | [SVG](svg/dumbbell-upright-row.svg) | [PNG](png/dumbbell-upright-row.png) |
 | Elbow Lever | [SVG](svg/elbow-lever.svg) | [PNG](png/elbow-lever.png) |
+| Elevated Pistol Squat | [SVG](svg/elevated-pistol-squat.svg) | [PNG](png/elevated-pistol-squat.png) |
 | Elliptical | [SVG](svg/elliptical.svg) | [PNG](png/elliptical.png) |
 | Exercise Ball Pull-In | [SVG](svg/exercise-ball-pull-in.svg) | [PNG](png/exercise-ball-pull-in.png) |
 | Exercise Ball Push-up | [SVG](svg/exercise-ball-push-up.svg) | [PNG](png/exercise-ball-push-up.png) |

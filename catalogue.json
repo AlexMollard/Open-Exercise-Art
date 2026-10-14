@@ -79,6 +79,23 @@
       }
     },
     {
+      "id": "advanced-shrimp-squat",
+      "name": "Advanced Shrimp Squat",
+      "aliases": [],
+      "png": {
+        "file": "png/advanced-shrimp-squat.png",
+        "size": [
+          1254,
+          1254
+        ],
+        "sha256": "38527da6fb9bb999c8c108f3cc66c5ee90964e01352cecd7c2a3d4b972ff08ea"
+      },
+      "svg": {
+        "file": "svg/advanced-shrimp-squat.svg",
+        "sha256": "7267a99b6c1c8e11cae093a8d4b2c8a7af9a51a6166921153fd192da35ad6444"
+      }
+    },
+    {
       "id": "advanced-tuck-back-lever",
       "name": "Advanced Tuck Back Lever",
       "aliases": [],
@@ -127,6 +144,23 @@
       "svg": {
         "file": "svg/advanced-tuck-planche.svg",
         "sha256": "8c6db4b11efddbde6eb37c2f199ecb4cd5fbfe3c2cf426029cec0c1eb687ac00"
+      }
+    },
+    {
+      "id": "airborne-squat",
+      "name": "Airborne Squat",
+      "aliases": [],
+      "png": {
+        "file": "png/airborne-squat.png",
+        "size": [
+          1254,
+          1254
+        ],
+        "sha256": "6026127d94b30e90937a1b24cdcc2a9274e19c01116eb75fa1ecb07dbba76bbb"
+      },
+      "svg": {
+        "file": "svg/airborne-squat.svg",
+        "sha256": "fa58358bc2417692cd33f20064513f987353bb7b42ba585441bea65a264b0359"
       }
     },
     {
@@ -1608,6 +1642,23 @@
       }
     },
     {
+      "id": "box-pistol-squat",
+      "name": "Box Pistol Squat",
+      "aliases": [],
+      "png": {
+        "file": "png/box-pistol-squat.png",
+        "size": [
+          1254,
+          1254
+        ],
+        "sha256": "39d188a816e239179323a7188c10a4f61b7fbbb0b895a13e902b585e9768c250"
+      },
+      "svg": {
+        "file": "svg/box-pistol-squat.svg",
+        "sha256": "7e2035db0a900fd27491dd391b4f1e0173e6c0587977422ab99aa57693ee1d41"
+      }
+    },
+    {
       "id": "boxing",
       "name": "Boxing",
       "aliases": [],
@@ -2792,6 +2843,23 @@
       }
     },
     {
+      "id": "deficit-advanced-shrimp-squat",
+      "name": "Deficit Advanced Shrimp Squat",
+      "aliases": [],
+      "png": {
+        "file": "png/deficit-advanced-shrimp-squat.png",
+        "size": [
+          1254,
+          1254
+        ],
+        "sha256": "102597995341ffec67f4dec33d3159d67bc1bd0f49f04e11d865f1cf89f27a30"
+      },
+      "svg": {
+        "file": "svg/deficit-advanced-shrimp-squat.svg",
+        "sha256": "a3caabf477eb8bbbc22b8bdadd86dbf44fa3f5833a02b42d931af2ace363c204"
+      }
+    },
+    {
       "id": "deficit-reverse-lunge",
       "name": "Deficit Reverse Lunge",
       "aliases": [
@@ -3506,6 +3574,23 @@
       "svg": {
         "file": "svg/elbow-lever.svg",
         "sha256": "ce37bcbbf7004fd261d336dba5011cbd1ea77e7dfa185abd000e3843e960e9f5"
+      }
+    },
+    {
+      "id": "elevated-pistol-squat",
+      "name": "Elevated Pistol Squat",
+      "aliases": [],
+      "png": {
+        "file": "png/elevated-pistol-squat.png",
+        "size": [
+          1254,
+          1254
+        ],
+        "sha256": "10e84e76c5e99849db92210b27f239c4acdf970ade7d66b4d18c29039bb8366f"
+      },
+      "svg": {
+        "file": "svg/elevated-pistol-squat.svg",
+        "sha256": "de063bae1bd287b02a09f2f957fb1a412600e7ba1b973cc55a1979616ba30bb8"
       }
     },
     {
