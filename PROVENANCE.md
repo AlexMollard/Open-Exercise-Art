@@ -28,3 +28,8 @@ The PNG-to-SVG tools are FOSS; the original AI image-generation model/service is
 not part of this repository. Rebuilding vectors reproduces the vectorization,
 not a new AI rendering of the exercise. Source PNGs, reviewed artwork and the
 conversion implementation are all available for inspection and modification.
+
+On 2026-10-14, missing far legs in Advanced Tuck Front Lever, Archer Push-up and
+Advanced Tuck Planche were corrected with the same built-in image-generation
+tool. Alex Mollard approved each replacement, and their SVGs were rebuilt from
+the corrected PNGs. The catalogue hashes identify these current approved versions.

@@ -33,7 +33,8 @@ dimensions and SHA-256 hashes.
 ```
 
 SVGs have transparent backgrounds and use `fill="currentColor"`; they default to
-black ink. Inline an SVG to inherit a surrounding CSS `color`. An SVG loaded via
+black ink. The gallery displays them as white line art on charcoal cards.
+Inline an SVG to inherit a surrounding CSS `color`. An SVG loaded via
 `<img>` does not inherit the parent page's colour: edit its fill or set a colour
 inside the SVG if needed. Preserve `fill-rule="evenodd"`, which keeps the body
 and equipment interiors transparent. The paths describe contour ribbons;
