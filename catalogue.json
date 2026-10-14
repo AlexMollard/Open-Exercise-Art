@@ -3865,6 +3865,23 @@
       }
     },
     {
+      "id": "front-lever-row",
+      "name": "Front Lever Row",
+      "aliases": [],
+      "png": {
+        "file": "png/front-lever-row.png",
+        "size": [
+          1254,
+          1254
+        ],
+        "sha256": "e03570f389d1dbf5084d0601f02c69cd05cb99a23396e26641076a06adc61af0"
+      },
+      "svg": {
+        "file": "svg/front-lever-row.svg",
+        "sha256": "198022c4c839b6bbf27d99abcfa07410593634babc2de66d6ac2b98c99e6f3c5"
+      }
+    },
+    {
       "id": "front-raise",
       "name": "Front Raise",
       "aliases": [
@@ -9450,6 +9467,23 @@
       "svg": {
         "file": "svg/tuck-front-lever.svg",
         "sha256": "a082dc1560fec91019d48437bc9672246826143087e84502a6821b1c88f3f274"
+      }
+    },
+    {
+      "id": "tuck-front-lever-row",
+      "name": "Tuck Front Lever Row",
+      "aliases": [],
+      "png": {
+        "file": "png/tuck-front-lever-row.png",
+        "size": [
+          1254,
+          1254
+        ],
+        "sha256": "e7df8f9fd5eefad3e8194c54b3ca8d98c6f91889e77f5436518f090345362fdb"
+      },
+      "svg": {
+        "file": "svg/tuck-front-lever-row.svg",
+        "sha256": "4a8575682a302bf0a076a4e2fba748b293799da61fa35001aad146c5261570c5"
       }
     },
     {

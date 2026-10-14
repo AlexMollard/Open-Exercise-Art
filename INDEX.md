@@ -1,6 +1,6 @@
 # Exercise index
 
-553 approved single-frame illustrations. Artwork and catalogue: CC BY-SA 4.0.
+555 approved single-frame illustrations. Artwork and catalogue: CC BY-SA 4.0.
 
 | Exercise | SVG | PNG |
 |---|---|---|
@@ -208,6 +208,7 @@
 | Frog Pump | [SVG](svg/frog-pump.svg) | [PNG](png/frog-pump.png) |
 | Frog Stand | [SVG](svg/frog-stand.svg) | [PNG](png/frog-stand.png) |
 | Front Lever | [SVG](svg/front-lever.svg) | [PNG](png/front-lever.png) |
+| Front Lever Row | [SVG](svg/front-lever-row.svg) | [PNG](png/front-lever-row.png) |
 | Front Raise | [SVG](svg/front-raise.svg) | [PNG](png/front-raise.png) |
 | Front Row Hold | [SVG](svg/front-row-hold.svg) | [PNG](png/front-row-hold.png) |
 | Front Split | [SVG](svg/front-split.svg) | [PNG](png/front-split.png) |
@@ -510,6 +511,7 @@
 | Triceps Pushdown | [SVG](svg/triceps-pushdown.svg) | [PNG](png/triceps-pushdown.png) |
 | Tuck Back Lever | [SVG](svg/tuck-back-lever.svg) | [PNG](png/tuck-back-lever.png) |
 | Tuck Front Lever | [SVG](svg/tuck-front-lever.svg) | [PNG](png/tuck-front-lever.png) |
+| Tuck Front Lever Row | [SVG](svg/tuck-front-lever-row.svg) | [PNG](png/tuck-front-lever-row.png) |
 | Tuck Human Flag | [SVG](svg/tuck-human-flag.svg) | [PNG](png/tuck-human-flag.png) |
 | Tuck L-sit | [SVG](svg/tuck-l-sit.svg) | [PNG](png/tuck-l-sit.png) |
 | Tuck Planche | [SVG](svg/tuck-planche.svg) | [PNG](png/tuck-planche.png) |
