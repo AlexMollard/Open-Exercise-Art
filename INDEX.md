@@ -1,6 +1,6 @@
 # Exercise index
 
-561 approved single-frame illustrations. Artwork and catalogue: CC BY-SA 4.0.
+562 approved single-frame illustrations. Artwork and catalogue: CC BY-SA 4.0.
 
 | Exercise | SVG | PNG |
 |---|---|---|
@@ -242,6 +242,7 @@
 | Handstand-to-Bridge | [SVG](svg/handstand-to-bridge.svg) | [PNG](png/handstand-to-bridge.png) |
 | Hanging Knee Raise | [SVG](svg/hanging-knee-raise.svg) | [PNG](png/hanging-knee-raise.png) |
 | Hanging Leg Raise | [SVG](svg/hanging-leg-raise.svg) | [PNG](png/hanging-leg-raise.png) |
+| Hanging Oblique Knee Raises | [SVG](svg/hanging-oblique-knee-raises.svg) | [PNG](png/hanging-oblique-knee-raises.png) |
 | Head-Supported Rear Delt Raise | [SVG](svg/head-supported-rear-delt-raise.svg) | [PNG](png/head-supported-rear-delt-raise.png) |
 | Heel-Elevated Goblet Squat | [SVG](svg/heel-elevated-goblet-squat.svg) | [PNG](png/heel-elevated-goblet-squat.png) |
 | High Cable Curl | [SVG](svg/high-cable-curl.svg) | [PNG](png/high-cable-curl.png) |

@@ -2,7 +2,7 @@
 
 **Consistent exercise illustrations. Open assets. Reproducible tools.**
 
-561 approved exercise illustrations, each available as a transparent PNG and a
+562 approved exercise illustrations, each available as a transparent PNG and a
 standard SVG. Built for fitness apps, exercise guides and other projects that
 need a consistent set of single-frame exercise drawings.
 

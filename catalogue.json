@@ -4460,6 +4460,25 @@
       }
     },
     {
+      "id": "hanging-oblique-knee-raises",
+      "name": "Hanging Oblique Knee Raises",
+      "aliases": [
+        "Hanging Oblique Knee Raise"
+      ],
+      "png": {
+        "file": "png/hanging-oblique-knee-raises.png",
+        "size": [
+          1254,
+          1254
+        ],
+        "sha256": "b9aa1a2dfa3a82e29c79bd76b91fe6bba55f52d6cff0bbbac1b7abf184ff25a0"
+      },
+      "svg": {
+        "file": "svg/hanging-oblique-knee-raises.svg",
+        "sha256": "4727ad3dbee59fff91833718582d4028462f37077cdaa308d10e42e2c90cff95"
+      }
+    },
+    {
       "id": "head-supported-rear-delt-raise",
       "name": "Head-Supported Rear Delt Raise",
       "aliases": [
